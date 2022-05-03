@@ -15,7 +15,7 @@ Login or Register to [Clickup](https://app.clickup.com/) to access the project b
 
 When you create a new ticket, make sure to give it a consistent name defining the task to be performed.
 
-![App Screenshot](ticketing/screenshot/create_new_ticket.PNG)
+![App Screenshot](ticketing/screenshot/create_new_ticket.jpg)
 
 ######
 After that, you will have to fill in all the necessary elements to create a valid ticket.
