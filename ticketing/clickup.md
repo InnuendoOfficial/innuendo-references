@@ -1,5 +1,4 @@
-
-# ClickUp
+# ClickUp ![ClickUp](https://img.shields.io/badge/clickup-%237B68EE.svg?&style=for-the-badge&logo=clickup&logoColor=white)
 
 ## Summary
 
