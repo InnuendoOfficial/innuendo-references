@@ -1,4 +1,4 @@
-# ClickUp ![ClickUp](https://img.shields.io/badge/clickup-%237B68EE.svg?&style=for-the-badge&logo=clickup&logoColor=white)
+# ClickUp ![ClickUp](https://img.shields.io/badge/clickup-%237B68EE.svg?&style=flat-square&logo=clickup&logoColor=white)
 
 ## Summary
 
@@ -67,3 +67,5 @@ The assigned tasks must correspond to the tasks defined in the PLD of the corres
 ### Due Time
 
 ![due time](screenshot/set_due_time.jpg)
+
+It is important to add a due date to the ticket in order to update the priority of the ticket
