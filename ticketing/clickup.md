@@ -1,30 +1,28 @@
-
-# ClickUp
+# ClickUp [![ClickUp](https://img.shields.io/badge/clickup-%237B68EE.svg?&style=flat-square&logo=clickup&logoColor=white)](https://app.clickup.com/)
 
 ## Summary
 
 ClickUp is a cloud-based work platform for all types and sizes of teams and businesses. It combines important business applications and centralizes company information into a single online solution. Assign tasks to team members and manage projects.
 
 # Guide
-
 ## Connect to ClickUp
 
 Login or Register to [Clickup](https://app.clickup.com/) to access the project board.
 
 ## Create a new ticket
 
-To create a new ticket click on the `+` button make sure to give it a consistent name defining the task to be performed.
+To create a new ticket click on the `+` button and make sure to give it a consistent name defining the task to be performed.
 
 ![create_new_ticket](screenshot/create_new_ticket.jpg)
 
 After that, you will have to fill in all the necessary elements to create a valid ticket :
 
-- [**Assignment**](#assignment)
-- [**Priority**](#priority)
-- [**Tags**](#tags)
-- [**Fields**](#fields)
-- [**Checklist**](#checklist)
-- [**Due Time**](#due-time)
+- [Assignment](#assignment)
+- [Priority](#priority)
+- [Tags](#tags)
+- [Fields](#fields)
+- [Checklist](#checklist)
+- [Due Time](#due-time)
 
 All this information can evolve over the sprint.
 
@@ -68,3 +66,5 @@ The assigned tasks must correspond to the tasks defined in the PLD of the corres
 ### Due Time
 
 ![due time](screenshot/set_due_time.jpg)
+
+It is important to add a due date to the ticket in order to update the priority of the ticket
