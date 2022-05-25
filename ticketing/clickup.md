@@ -9,62 +9,33 @@ ClickUp is a cloud-based work platform for all types and sizes of teams and busi
 
 Login or Register to [Clickup](https://app.clickup.com/) to access the project board.
 
-## Create a new ticket
+As a project manager you can :
+- Create a schedule
+- Create tickets
+- Assign tickets to members
+- Create a category
+  
+As a developer you can :
+- Join a schedule
+- Create tickets
+- Assign a ticket to yourself
 
-To create a new ticket click on the `+` button and make sure to give it a consistent name defining the task to be performed.
+## Work as a developer on ClickUp
 
-![create_new_ticket](screenshot/create_new_ticket.jpg)
+You will have to use ClickUp as a follow-up tool on the progress of your tasks in the form of tickets.
 
-After that, you will have to fill in all the necessary elements to create a valid ticket :
+To start, you must choose a ticket or create it if it does not exist. In order to create a standardized ticket follow the [ticket creation guide](ticket.md)
+Assign the ticket to yourself and change the status of the ticket by placing it in the "in progress" section.
+During your progress on the tasks of the tickets, do not forget to tick the completed tasks in the "CheckList" part of the ticket.
+After completing a ticket's tasks, move it to the "complete" section of the schedule.
 
-- [Assignment](#assignment)
-- [Priority](#priority)
-- [Tags](#tags)
-- [Fields](#fields)
-- [Checklist](#checklist)
-- [Due Time](#due-time)
+Congratulations you now know how to work with the ClickUp tool and are ready to complete all the planning tickets
 
-All this information can evolve over the sprint.
+## Work as a project manager on ClickUp
 
-### Assignment
+You will have to use ClickUp as a follow-up tool on the progress of tasks of memebers in the form of tickets and you will have to manage the schedule for the different sprints of the project.
 
-![assignment](screenshot/assign_task.jpg)
+At the start of a sprint you will have to create a new sprint schedule in order to place the tickets there and ensure that the sprint runs smoothly.
+In order to create a standardized schedule follow the [schedule creation guide](schedule.md)
 
-The assignment of the task can be done later, for example after a kick-off or when a member of the group decides to start the task
-
-### Priority
-
-![priority](screenshot/set_priority.jpg)
-
-Meaning of priorities :
- - Urgent : A bug that needs to be fixed immediately because it slows down or stops the progress of the project / A late ticket that needs to be completed immediately
- - High : A task that is part of the MVP or a ticket to be completed for the end of the current sprint
- - Normal : A ticket created to be placed in backlog
- - Low : A ticket aiming to be future features to add to the project
- - Clear : A completed or abandoned ticket
-
-You will have to modify the priority of the same ticket several times depending on its status during the project.
-
-### Tags
-
-![tags](screenshot/add_tags.jpg)
-
-In order to properly select the tags for your ticket, refer to [category](categorie.md).
-
-### Fields
-
-![fields](screenshot/add_new_fields.jpg)
-
-⚠️ **Important: don't forget to add your estimated J/H.**
-
-### Checklist
-
-![checklist](screenshot/add_task_in_checklist.jpg)
-
-The assigned tasks must correspond to the tasks defined in the PLD of the corresponding sprint
-
-### Due Time
-
-![due time](screenshot/set_due_time.jpg)
-
-It is important to add a due date to the ticket in order to update the priority of the ticket
+During the sprint you will have to manage it through the schedule and tickets, check that during a sprint each members is assigned to a ticket. You will be able to create tickets through the [ticket creation guide](ticket.md). You will be assigned to all tickets in the schedule so that you are notified of the progress of each of them.
