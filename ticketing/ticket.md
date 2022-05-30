@@ -12,8 +12,8 @@ In the ticket options click on Template Center
 
 ![ticket_settings](screenshot/ticket_setting.jpg)
 
-Click on "Browse Templates" to select "Innuendo Template Ticket" and load the template
-Clikc on "Save as Templates" to save the current ticket as a template ticket 
+Click on `Browse Templates` to select `Innuendo Template Ticket` and load the template
+Clikc on `Save as Templates` to save the current ticket as a template ticket 
 
 ![tempalte_center](screenshot/template_center.jpg)
 

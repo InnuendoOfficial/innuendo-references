@@ -25,9 +25,9 @@ As a developer you can :
 You will have to use ClickUp as a follow-up tool on the progress of your tasks in the form of tickets.
 
 To start, you must choose a ticket or create it if it does not exist. In order to create a standardized ticket follow the [ticket creation guide](ticket.md)
-Assign the ticket to yourself and change the status of the ticket by placing it in the "in progress" section.
-During your progress on the tasks of the tickets, do not forget to tick the completed tasks in the "CheckList" part of the ticket.
-After completing a ticket's tasks, move it to the "complete" section of the schedule.
+Assign the ticket to yourself and change the status of the ticket by placing it in the `IN PROGRESS` section.
+During your progress on the tasks of the tickets, do not forget to tick the completed tasks in the `CheckList` part of the ticket.
+After completing a ticket's tasks, move it to the `COMPLETE` section of the schedule.
 
 Congratulations you now know how to work with the ClickUp tool and are ready to complete all the planning tickets
 
