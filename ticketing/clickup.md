@@ -29,7 +29,7 @@ Assign the ticket to yourself and change the status of the ticket by placing it 
 During your progress on the tasks of the tickets, do not forget to tick the completed tasks in the `CheckList` part of the ticket.
 After completing a ticket's tasks, move it to the `COMPLETE` section of the schedule.
 
-Congratulations you now know how to work with the ClickUp tool and are ready to complete all the planning tickets
+🎉 Congratulations you now know how to work with the ClickUp tool and are ready to complete all the planning tickets
 
 ## Work as a project manager on ClickUp
 

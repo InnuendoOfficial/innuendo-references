@@ -1,4 +1,6 @@
-# Create a new schedule
+# Schedule [![ClickUp](https://img.shields.io/badge/clickup-%237B68EE.svg?&style=flat-square&logo=clickup&logoColor=white)](https://app.clickup.com/)
+
+## Create a new schedule
 
 As a project manager, you will have to create and manage a follow-up schedule from the ClickUp web application.
 In this guide you will learn how to create a schedule for a sprint.
@@ -15,7 +17,7 @@ In the `Innuendo Template` window, check the `List` box to display the template 
 
 In this template you will have a board already built with the different ticket statues. Congratulation, you have created a new schedule, you can now add tickets to it.
 
-Congratulations, you have now created a new schedule to start your sprint and track the progress of your sprint.
+🎉 Congratulations, you have now created a new schedule to start your sprint and track the progress of your sprint.
 
 ## Save a new template
 
@@ -27,4 +29,4 @@ Name your template, add a description and define the accessibility of your templ
 
 ![save_template](screenshot/save_template.jpg)
 
-Congratulations, you have now created a new schedule template that will be useful for creating schedules for your next sprints.
+🎉 Congratulations, you have now created a new schedule template that will be useful for creating schedules for your next sprints.

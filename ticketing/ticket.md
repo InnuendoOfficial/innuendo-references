@@ -1,4 +1,6 @@
-# Create a new ticket
+# Ticket [![ClickUp](https://img.shields.io/badge/clickup-%237B68EE.svg?&style=flat-square&logo=clickup&logoColor=white)](https://app.clickup.com/)
+
+## Create a new ticket
 
 To create a new ticket click on the `+` button and make sure to give it a consistent name defining the task to be performed.
 
