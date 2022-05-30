@@ -53,7 +53,7 @@ You will have to modify the priority of the same ticket several times depending 
 
 ![tags](screenshot/add_tags.jpg)
 
-In order to properly select the tags for your ticket, refer to [categories](categorie.md).
+In order to properly select the tags for your ticket, refer to [categories](categories.md).
 
 ### Fields
 
