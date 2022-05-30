@@ -1,4 +1,4 @@
-# Category  [![ClickUp](https://img.shields.io/badge/clickup-%237B68EE.svg?&style=flat-square&logo=clickup&logoColor=white)](https://app.clickup.com/)
+# Categories  [![ClickUp](https://img.shields.io/badge/clickup-%237B68EE.svg?&style=flat-square&logo=clickup&logoColor=white)](https://app.clickup.com/)
 
 Categories represent the tags that can be given to tickets. They allow the members of the group to more simply understand and sort the tickets.
 
